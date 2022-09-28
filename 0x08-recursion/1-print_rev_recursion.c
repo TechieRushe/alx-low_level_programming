@@ -3,10 +3,10 @@
 /**
  *_print_rev_recursion - prints a string, followed by a new line.
  *@s: string to print.
- *Return: void
+ *Return: void.
  */
 
-void _print_rev_recursion(char *s);
+void _print_rev_recursion(char *s)
 {
 	if (*s != '\0')
 	{
