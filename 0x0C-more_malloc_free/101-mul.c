@@ -48,7 +48,7 @@ void errors(void)
 }
 
 /**
- *main - multiplies two positive numbers
+ *main - multiplies of two positive numbers
  *@argc: number of arguments
  *@argv: array of arguments
  *
